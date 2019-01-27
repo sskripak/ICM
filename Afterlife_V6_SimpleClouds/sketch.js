@@ -81,7 +81,7 @@ function setup() {
 
   ////create slider to simulate strength of blowing///
   blowSlider = createSlider(0,windowWidth/3,0);
-  blowSlider.position(100,100);
+  blowSlider.position(500,500);
 
 
 
